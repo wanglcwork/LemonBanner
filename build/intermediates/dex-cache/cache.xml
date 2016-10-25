@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e7042f63f0f80b0469d8eea01311d3b0e8ad23a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3495bc4c2ae90ef19dc9e75d8577e5d670d31a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_de06530c7dede34468ac075c78a1df79084d7014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fc2ec247f37b8a247ebf88c746ea164a4fbccb02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2da76f6261ba976f4ca216c5d70a6033e7a87866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="041acc4a6237fbe8831d0d371c3d20ea244db937">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_edb558b63962c18714c2944b831f0f87b1d8c691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_80af0565ae9b5a85871f0170eb9471d8d75a627e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_66ed4230e7a4196216f7775cd99fb6c417caadf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_66fc6a29f546e7d9fc5a90d5c5c6bb26390eb0a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3702ce59d2afb7db77ce3d47b6ad66cae0e353a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9ca8848b1b0d97563370f090ba9d729e4ba7e08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_7d6f4a9de0e2d4f845ad73ecfb426cc65973264a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_946789b5bb515b29ced19efea7d6ec6b53c0dc39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4bf2c49b9b0d218de8ec768cd17b316f04d4090e">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c4917767f81e086ee75b35078187b9be1dc6326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aa41ec0fda808f873613af16e6d2ac778598b5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5b1c3af0402bb65e997447f3d4e1f8b65706827a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_55ba46748bb40b54aa0f5de49967c19d635ed363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e9bea45ff6e2d7d1d4625e1de5446e7b09af3340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ning\Desktop\LemonBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed3de7bfcfd9cdd2959e4bb8b1a9cdc2fc8856bd\classes.dex" />
+    </item>
+
+</items>
