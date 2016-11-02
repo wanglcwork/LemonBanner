@@ -1,0 +1,7 @@
+#Wed Nov 02 16:07:52 CST 2016
+base.0=C\:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_edb558b63962c18714c2944b831f0f87b1d8c691
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8c4917767f81e086ee75b35078187b9be1dc6326\\classes.dex
+base.1=C\:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8c4917767f81e086ee75b35078187b9be1dc6326
+file.0=C\:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_edb558b63962c18714c2944b831f0f87b1d8c691\\classes.dex

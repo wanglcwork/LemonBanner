@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.lemon.pear.banner.view.CanRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.lemon.pear.banner.moducle.main.view.BannerView
-        android:id="@+id/bannerView"
+    <com.lemon.pear.banner.view.ClassicRefreshView
+        android:id="@id/can_refresh_header"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-</RelativeLayout>
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@id/can_content_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:clipToPadding="false" />
+
+    <com.lemon.pear.banner.moducle.main.view.CanHeaderFooter
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <com.lemon.pear.banner.moducle.main.view.BannerView
+            android:id="@+id/bannerView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp" />
+    </com.lemon.pear.banner.moducle.main.view.CanHeaderFooter>
+
+    <com.lemon.pear.banner.view.ClassicRefreshView
+        android:id="@id/can_refresh_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</com.lemon.pear.banner.view.CanRefreshLayout>

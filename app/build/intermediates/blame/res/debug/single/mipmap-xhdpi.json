@@ -2,5 +2,13 @@
     {
         "merged": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rotate_progress.png",
+        "source": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\src\\main\\res\\mipmap-xhdpi\\rotate_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\classic_pull_arrow.png",
+        "source": "C:\\Users\\ning\\Desktop\\LemonBanner\\app\\src\\main\\res\\mipmap-xhdpi\\classic_pull_arrow.png"
     }
 ]

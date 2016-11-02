@@ -76,11 +76,6 @@ public class BannerView extends RelativeLayout implements OnPageChangeListener {
         View.inflate(context, R.layout.lay_banner_view, this);
         vpBanner = (ViewPager) findViewById(R.id.vpBanner);
         llDots = (LinearLayout) findViewById(R.id.llDots);
-
-        //让banner的高度是屏幕的1/4
-        ViewGroup.LayoutParams vParams = vpBanner.getLayoutParams();
-        vParams.height = (int) (DisplayUtils.getMobileHeight(context) * 0.25);
-        vpBanner.setLayoutParams(vParams);
     }
 
     //初始化数据
